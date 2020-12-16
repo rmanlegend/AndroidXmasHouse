@@ -617,7 +617,7 @@ public class MainActivity extends AppCompatActivity implements BleManager.BleMan
         // Prepare dialog
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         //String title = String.format(getString(R.string.scan_connectto_dialog_title_format), deviceData.getNiceName());
-        String title = String.format(getString(R.string.scan_connectto_dialog_title_format), "Rmando Goggles");
+        String title = String.format(getString(R.string.scan_connectto_dialog_title_format), "Rmando Xmas House");
         String[] items = new String[kComponentsNameIds.length];
         for (int i = 0; i < kComponentsNameIds.length; i++)
             items[i] = getString(kComponentsNameIds[i]);
@@ -629,7 +629,7 @@ public class MainActivity extends AppCompatActivity implements BleManager.BleMan
 
                             case R.string.scan_connectservice_uart: {           // Uart
                                 mComponentToStartWhenConnected = UartActivity.class;
-                                Log.d ("rmandoGoggles", "component to start :"+mComponentToStartWhenConnected);
+                                Log.d ("rmandoXmas House", "component to start :"+mComponentToStartWhenConnected);
                                 break;
                             }
                         }
@@ -828,7 +828,7 @@ public class MainActivity extends AppCompatActivity implements BleManager.BleMan
             if (mSelectedDeviceData.type == BluetoothDeviceData.kType_Uart) {      // if is uart, show all the available activities
                 //showChooseDeviceServiceDialog(mSelectedDeviceData);
                 mComponentToStartWhenConnected = UartActivity.class;
-                connect(device);  // connect straight to the goggles!
+                connect(device);  // connect straight to the Xmas House!
             } else {                          // if no uart, then go directly to info
                 Log.d(TAG, "No UART service found. Go to InfoActivity");
                 mComponentToStartWhenConnected = InfoActivity.class;
@@ -1797,7 +1797,7 @@ public class MainActivity extends AppCompatActivity implements BleManager.BleMan
 
             BluetoothDeviceData deviceData = mFilteredPeripherals.get(groupPosition);
             if ( deviceData.getNiceName().contentEquals("Adafruit Bluefruit LE") ) {
-                holder.nameTextView.setText("Rmando Goggles");
+                holder.nameTextView.setText("Rmando Xmas House");
             }
             else
             {

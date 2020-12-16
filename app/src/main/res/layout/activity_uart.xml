@@ -56,11 +56,11 @@
                 android:layout_gravity="center_horizontal" />
 
             <Button
+                android:id="@+id/xmasGlow"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="VU Meter"
-                android:id="@+id/vuMeter"
-                android:layout_gravity="center_horizontal" />
+                android:layout_gravity="center_horizontal"
+                android:text="Xmas Glow" />
 
             <Button
                 android:layout_width="match_parent"

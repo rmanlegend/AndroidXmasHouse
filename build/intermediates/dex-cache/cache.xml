@@ -8,7 +8,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_b05d214b0fd1c5305bf2c7beeed1d514d230ca81.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_b05d214b0fd1c5305bf2c7beeed1d514d230ca81.jar" />
     </item>
     <item
         is-multidex="false"
@@ -17,7 +17,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_29230237e6148ff4d646213791dcbdf5e7c9b646.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_29230237e6148ff4d646213791dcbdf5e7c9b646.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,16 +26,16 @@
         optimize="true"
         revision="25.0.3"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_2f85063de7c6e84ee94646952f93e18353ac893e.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_2f85063de7c6e84ee94646952f93e18353ac893e.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="358bee1313ae5bf352287fd1ec2ea28cdb1ac0ea">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f39f566f7d73ab832f5530dc383adf2d12f97e9b/classes.dex" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f39f566f7d73ab832f5530dc383adf2d12f97e9b/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -44,7 +44,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_426f403ed2f19211dfeb53d134e2badcd096bf96.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_426f403ed2f19211dfeb53d134e2badcd096bf96.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,7 +53,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_18a9c00f5d41ab9dd8caedcedc2d1f5318189273.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_18a9c00f5d41ab9dd8caedcedc2d1f5318189273.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,7 +62,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1bb3104888d63719e612bacc056b2b7b70093aee.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1bb3104888d63719e612bacc056b2b7b70093aee.jar" />
     </item>
     <item
         is-multidex="false"
@@ -71,7 +71,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="6b3430725095bd46b785e97bd34240826c27b4db">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_85434c4f51c66f3051966afeab5f0036a5ea883e.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_85434c4f51c66f3051966afeab5f0036a5ea883e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,7 +80,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_97bc33f02f5efef6d1e47a881ddab224ed1fa2ce.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_97bc33f02f5efef6d1e47a881ddab224ed1fa2ce.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,7 +89,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_df9dc5be6808274fbdd1bbf33035c2a5d17511fb.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_df9dc5be6808274fbdd1bbf33035c2a5d17511fb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,16 +98,16 @@
         optimize="true"
         revision="25.0.3"
         sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_327748c3dda99c779e92125f471eca13c9adc34d.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_327748c3dda99c779e92125f471eca13c9adc34d.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d865eabe8ccc988d2c3f9bde65767253acbc907e/classes.dex" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d865eabe8ccc988d2c3f9bde65767253acbc907e/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -116,7 +116,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="5d5a825cbf0f67237377034c2c4edf9ba7e60fbe">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_11307cf6a156191a5f491e2a8e37972cb1326cee.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_11307cf6a156191a5f491e2a8e37972cb1326cee.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +125,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_a7de7fb1358ca48b6a3892b9cc440323e5c115b9.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_a7de7fb1358ca48b6a3892b9cc440323e5c115b9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,7 +134,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_cb04bdc43116099293d2cc0c534755af10e03646.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_cb04bdc43116099293d2cc0c534755af10e03646.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,7 +143,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_1454847f48dd174a85bbf6de4df83bd4fea4136f.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_1454847f48dd174a85bbf6de4df83bd4fea4136f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +152,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_790aaf01124381712a218da617e89ee445e18a59.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_790aaf01124381712a218da617e89ee445e18a59.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,7 +161,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="2d956522c556caeb35148445ecd059ebe67331f6">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.2_e61bbc8d756795de95258c8196026e09eb9f71aa.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.2_e61bbc8d756795de95258c8196026e09eb9f71aa.jar" />
     </item>
     <item
         is-multidex="false"
@@ -170,7 +170,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_f53452ba36a1505659d78382e0db56feeba905c3.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_f53452ba36a1505659d78382e0db56feeba905c3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,7 +179,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="2430e711762a749feb00b3d64858ca4768251b9d">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_b7e7cadc58c44986651e048f24b350992d208adf.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_b7e7cadc58c44986651e048f24b350992d208adf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -188,7 +188,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/gson-2.5_7a4a9a3880fe4349ccf371412379eed25d1f0f57.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/gson-2.5_7a4a9a3880fe4349ccf371412379eed25d1f0f57.jar" />
     </item>
     <item
         is-multidex="false"
@@ -197,7 +197,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_38edba115d00addf68dd508406c1f43d91214581.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_38edba115d00addf68dd508406c1f43d91214581.jar" />
     </item>
     <item
         is-multidex="false"
@@ -206,7 +206,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_55d9b65022048bd67c2f0e7da54368d41bf381b0.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_55d9b65022048bd67c2f0e7da54368d41bf381b0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -215,7 +215,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="20e16b60ea88f1273d88d6792711907b6526af83">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_ef79ef70718601330a4dbd9b9694b043cf9a7817.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_ef79ef70718601330a4dbd9b9694b043cf9a7817.jar" />
     </item>
     <item
         is-multidex="false"
@@ -224,7 +224,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2_4405753d5081730369be417eccfe4f2aac058905.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2_4405753d5081730369be417eccfe4f2aac058905.jar" />
     </item>
     <item
         is-multidex="false"
@@ -233,7 +233,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_6c3ac59d7c0f1a82a3085f6efc415da66e9cb529.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_6c3ac59d7c0f1a82a3085f6efc415da66e9cb529.jar" />
     </item>
     <item
         is-multidex="false"
@@ -242,7 +242,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_ffd060d66bffb533b2b9e9aee596e93e2a47b082.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_ffd060d66bffb533b2b9e9aee596e93e2a47b082.jar" />
     </item>
     <item
         is-multidex="false"
@@ -251,7 +251,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_351c824fe9409ac3333c2fbb053ca90ddac66356.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_351c824fe9409ac3333c2fbb053ca90ddac66356.jar" />
     </item>
     <item
         is-multidex="false"
@@ -260,7 +260,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/Legando/Dropbox/Development/Android/gogglesS7api24v3/app/build/intermediates/pre-dexed/debug/classes_ea85355b41d5b182dd56cbb75a04eca6dba97c3b.jar" />
+        <dex dex="/Users/Legando/Dropbox/Development/Android/Xmas HouseS7api24v3/app/build/intermediates/pre-dexed/debug/classes_ea85355b41d5b182dd56cbb75a04eca6dba97c3b.jar" />
     </item>
 
 </items>

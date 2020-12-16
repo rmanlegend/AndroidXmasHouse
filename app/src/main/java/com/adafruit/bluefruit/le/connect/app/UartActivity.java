@@ -209,20 +209,20 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
 
         /*
         mBleManager = BleManager.getInstance(this);
-        Log.d ("rmandoGoggles", "method onCreate 1");
+        Log.d ("rmandoXmas House", "method onCreate 1");
         initialScan();
-        Log.d ("rmandoGoggles", "method onCreate 2");
+        Log.d ("rmandoXmas House", "method onCreate 2");
         handler = new Handler ();
-        Log.d ("rmandoGoggles", "method onCreate 3");
+        Log.d ("rmandoXmas House", "method onCreate 3");
 
         // Connect Bluetooth
         ImageButton connBT = (ImageButton) findViewById (R.id.connectBluetooth);
-        Log.d ("rmandoGoggles", "method onCreate 4");
+        Log.d ("rmandoXmas House", "method onCreate 4");
         connBT.setOnTouchListener (new View.OnTouchListener ()
         {
             @Override
             public boolean onTouch (View view, MotionEvent event) {
-                Log.d("rmandoGoggles", "Button pressed - Connect Bluetooth!");
+                Log.d("rmandoXmas House", "Button pressed - Connect Bluetooth!");
 
                 switch (event.getAction()) {
         */
@@ -234,7 +234,7 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
             @Override
             public boolean onTouch (View view, MotionEvent event) {
 
-                Log.d("rmandoGoggles", "Button pressed - turn off diodes!");
+                Log.d("rmandoXmas House", "Button pressed - turn off diodes!");
 
                 switch (event.getAction())
 
@@ -242,7 +242,7 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
 
                     case MotionEvent.ACTION_DOWN:
 
-                        Log.d("rmandoGoggles", "Button pressed - Reset Diodes! ACTION_DOWN");
+                        Log.d("rmandoXmas House", "Button pressed - Reset Diodes! ACTION_DOWN");
                         //resetDiodes();
 
                         break;
@@ -261,13 +261,13 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
             @Override
             public boolean onTouch(View view, MotionEvent event) {
 
-                Log.d("rmandoGoggles", "Button pressed - Sparkle!");
+                Log.d("rmandoXmas House", "Button pressed - Sparkle!");
 
                 switch (event.getAction()) {
 
                     case MotionEvent.ACTION_DOWN:
 
-                        Log.d("rmandoGoggles", "Button pressed - Sparkle! ACTION_DOWN");
+                        Log.d("rmandoXmas House", "Button pressed - Sparkle! ACTION_DOWN");
 
                         ByteBuffer buffer = ByteBuffer.allocate(2 + 3 * 1).order(java.nio.ByteOrder.LITTLE_ENDIAN);
 
@@ -277,7 +277,7 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
 
                         byte[] result = buffer.array();
                         sendDataWithCRC(result);
-                        Log.d("rmandoGoggles", "Button pressed - Sparkle part 3");
+                        Log.d("rmandoXmas House", "Button pressed - Sparkle part 3");
 
                         break;
                 }
@@ -293,13 +293,13 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
             @Override
             public boolean onTouch(View view, MotionEvent event) {
 
-                Log.d("rmandoGoggles", "Button pressed - Strobe! FAST");
+                Log.d("rmandoXmas House", "Button pressed - Strobe! FAST");
 
                 switch (event.getAction()) {
 
                     case MotionEvent.ACTION_DOWN:
 
-                        Log.d("rmandoGoggles", "Button pressed - Strobe! ACTION_DOWN");
+                        Log.d("rmandoXmas House", "Button pressed - Strobe! ACTION_DOWN");
 
                         ByteBuffer buffer = ByteBuffer.allocate(2 + 3 * 1).order(java.nio.ByteOrder.LITTLE_ENDIAN);
 
@@ -323,13 +323,13 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
             @Override
             public boolean onTouch(View view, MotionEvent event) {
 
-                Log.d("rmandoGoggles", "Button pressed - Strobe! SLOW");
+                Log.d("rmandoXmas House", "Button pressed - Strobe! SLOW");
 
                 switch (event.getAction()) {
 
                     case MotionEvent.ACTION_DOWN:
 
-                        Log.d("rmandoGoggles", "Button pressed - Strobe! ACTION_DOWN");
+                        Log.d("rmandoXmas House", "Button pressed - Strobe! ACTION_DOWN");
 
                         ByteBuffer buffer = ByteBuffer.allocate(2 + 3 * 1).order(java.nio.ByteOrder.LITTLE_ENDIAN);
 
@@ -353,13 +353,13 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
             @Override
             public boolean onTouch(View view, MotionEvent event) {
 
-                Log.d("rmandoGoggles", "Button pressed - Pulsate!");
+                Log.d("rmandoXmas House", "Button pressed - Pulsate!");
 
                 switch (event.getAction()) {
 
                     case MotionEvent.ACTION_DOWN:
 
-                        Log.d("rmandoGoggles", "Button pressed - Pulsate! ACTION_DOWN");
+                        Log.d("rmandoXmas House", "Button pressed - Pulsate! ACTION_DOWN");
 
                         ByteBuffer buffer = ByteBuffer.allocate(2 + 3 * 1).order(java.nio.ByteOrder.LITTLE_ENDIAN);
 
@@ -383,13 +383,13 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
             @Override
             public boolean onTouch(View view, MotionEvent event) {
 
-                Log.d("rmandoGoggles", "Button pressed - Chasing tails!");
+                Log.d("rmandoXmas House", "Button pressed - Chasing tails!");
 
                 switch (event.getAction()) {
 
                     case MotionEvent.ACTION_DOWN:
 
-                        Log.d("rmandoGoggles", "Button pressed - Chasing Tails! ACTION_DOWN");
+                        Log.d("rmandoXmas House", "Button pressed - Chasing Tails! ACTION_DOWN");
 
                         ByteBuffer buffer = ByteBuffer.allocate(2 + 3 * 1).order(java.nio.ByteOrder.LITTLE_ENDIAN);
 
@@ -415,13 +415,13 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
             @Override
             public boolean onTouch(View view, MotionEvent event) {
 
-                Log.d("rmandoGoggles", "Button pressed - Fill / Empty!");
+                Log.d("rmandoXmas House", "Button pressed - Fill / Empty!");
 
                 switch (event.getAction()) {
 
                     case MotionEvent.ACTION_DOWN:
 
-                        Log.d("rmandoGoggles", "Button pressed - Fill Empty! ACTION_DOWN");
+                        Log.d("rmandoXmas House", "Button pressed - Fill Empty! ACTION_DOWN");
 
                         ByteBuffer buffer = ByteBuffer.allocate(2 + 3 * 1).order(java.nio.ByteOrder.LITTLE_ENDIAN);
 
@@ -446,13 +446,13 @@ public class UartActivity extends UartInterfaceActivity implements MqttManager.M
             @Override
             public boolean onTouch(View view, MotionEvent event) {
 
-                Log.d("rmandoGoggles", "Button pressed - VU Meter!");
+                Log.d("rmandoXmas House", "Button pressed - VU Meter!");
 
                 switch (event.getAction()) {
 
                     case MotionEvent.ACTION_DOWN:
 
-                        Log.d("rmandoGoggles", "Button pressed - VU Meter! ACTION_DOWN");
+                        Log.d("rmandoXmas House", "Button pressed - VU Meter! ACTION_DOWN");
 
                         ByteBuffer buffer = ByteBuffer.allocate(2 + 3 * 1).order(java.nio.ByteOrder.LITTLE_ENDIAN);
 
